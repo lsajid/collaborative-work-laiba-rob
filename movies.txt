@@ -3,3 +3,9 @@ laibas movies
 The Harder They Fall
 Aladdin
 
+~ Laibas Branch added
+more movies : 
+Parasite,
+Kuch Kuch Hota Hai, 
+Kal Ho Na Ho, 
+Perfect blue
