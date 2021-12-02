@@ -8,4 +8,5 @@ more movies :
 Parasite,
 Kuch Kuch Hota Hai, 
 Kal Ho Na Ho, 
-Perfect blue
+Perfect blue,
+Love Hard,
